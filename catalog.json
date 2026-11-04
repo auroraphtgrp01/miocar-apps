@@ -5,7 +5,7 @@
       "files": [
         {
           "name": "miocar.fixture.hello-4-base.apk",
-          "sha256": "a90d68b3538ee22a3f477329c1c5adf38aab4418645337e85b94189c1a459cc7",
+          "sha256": "0000000000000000000000000000000000000000000000000000000000000001",
           "size": 8649,
           "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.fixture.hello-4/miocar.fixture.hello-4-base.apk"
         },
@@ -36,7 +36,7 @@
       "versionName": "1.0.4"
     }
   ],
-  "generated": "2026-11-04T04:02:50Z",
+  "generated": "2026-11-04T04:07:56Z",
   "schema": 1,
-  "seq": 3
+  "seq": 4
 }
