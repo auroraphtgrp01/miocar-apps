@@ -34,9 +34,28 @@
       "signerSha256": "83bff73a2c989a6d4301dd58a73f85bb94b0914b42726310194e51212f6e2212",
       "versionCode": 4,
       "versionName": "1.0.4"
+    },
+    {
+      "description": "Kho ứng dụng cho xe (CarStore)",
+      "files": [
+        {
+          "name": "miocar.store-2.apk",
+          "sha256": "04cab5c282be9872d73e002619c6d1c8605b26c3a030d1ef9e4efddfe64e79c9",
+          "size": 19011879,
+          "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.store-2/miocar.store-2.apk"
+        }
+      ],
+      "grants": [],
+      "icon": "",
+      "minSdk": 28,
+      "name": "Kho ứng dụng",
+      "package": "miocar.store",
+      "signerSha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
+      "versionCode": 2,
+      "versionName": "1.0.1"
     }
   ],
-  "generated": "2026-11-04T04:29:26Z",
+  "generated": "2026-11-04T04:29:33Z",
   "schema": 1,
-  "seq": 8
+  "seq": 9
 }
