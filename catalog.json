@@ -1,41 +1,6 @@
 {
   "apps": [
     {
-      "description": "Fixture app for CarStore E2E",
-      "files": [
-        {
-          "name": "miocar.fixture.hello-4-base.apk",
-          "sha256": "a90d68b3538ee22a3f477329c1c5adf38aab4418645337e85b94189c1a459cc7",
-          "size": 8649,
-          "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.fixture.hello-4/miocar.fixture.hello-4-base.apk"
-        },
-        {
-          "name": "miocar.fixture.hello-4-config.vi.apk",
-          "sha256": "59eba586fb910a245d81bb567ccd708e6dea0e1c028f9b3c6db31c078b146138",
-          "size": 8538,
-          "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.fixture.hello-4/miocar.fixture.hello-4-config.vi.apk"
-        },
-        {
-          "name": "miocar.fixture.hello-4-config.xxhdpi.apk",
-          "sha256": "7cb37d072b48bc31472a5f6a457b74af26cc894035750f6abeb420e81b936f29",
-          "size": 8619,
-          "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.fixture.hello-4/miocar.fixture.hello-4-config.xxhdpi.apk"
-        }
-      ],
-      "grants": [
-        "background",
-        "overlay",
-        "storage"
-      ],
-      "icon": "https://raw.githubusercontent.com/auroraphtgrp01/miocar-apps/main/icons/miocar.fixture.hello.png",
-      "minSdk": 28,
-      "name": "Ứng dụng mẫu",
-      "package": "miocar.fixture.hello",
-      "signerSha256": "83bff73a2c989a6d4301dd58a73f85bb94b0914b42726310194e51212f6e2212",
-      "versionCode": 4,
-      "versionName": "1.0.4"
-    },
-    {
       "description": "Kho ứng dụng cho xe (CarStore)",
       "files": [
         {
@@ -55,7 +20,7 @@
       "versionName": "1.0.1"
     }
   ],
-  "generated": "2026-11-04T04:29:33Z",
+  "generated": "2026-11-04T04:37:31Z",
   "schema": 1,
-  "seq": 9
+  "seq": 10
 }
