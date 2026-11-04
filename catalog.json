@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "description": "Fixture app for CarStore E2E",
+      "files": [
+        {
+          "name": "miocar.fixture.hello-1.apk",
+          "sha256": "bab8b9e5d177d96ca687e29c1c6cd538d973f3309a47e56c62cbda757939b3d0",
+          "size": 12989,
+          "url": "https://github.com/auroraphtgrp01/miocar-apps/releases/download/miocar.fixture.hello-1/miocar.fixture.hello-1.apk"
+        }
+      ],
+      "grants": [
+        "background",
+        "overlay",
+        "storage"
+      ],
+      "icon": "https://raw.githubusercontent.com/auroraphtgrp01/miocar-apps/main/icons/miocar.fixture.hello.png",
+      "minSdk": 28,
+      "name": "Ứng dụng mẫu",
+      "package": "miocar.fixture.hello",
+      "signerSha256": "83bff73a2c989a6d4301dd58a73f85bb94b0914b42726310194e51212f6e2212",
+      "versionCode": 1,
+      "versionName": "1.0.1"
+    }
+  ],
+  "generated": "2026-11-04T03:53:33Z",
+  "schema": 1,
+  "seq": 1
+}
