@@ -31,12 +31,12 @@
       "minSdk": 28,
       "name": "Ứng dụng mẫu",
       "package": "miocar.fixture.hello",
-      "signerSha256": "0000000000000000000000000000000000000000000000000000000000000001",
+      "signerSha256": "83bff73a2c989a6d4301dd58a73f85bb94b0914b42726310194e51212f6e2212",
       "versionCode": 4,
       "versionName": "1.0.4"
     }
   ],
-  "generated": "2026-11-04T04:14:45Z",
+  "generated": "2026-11-04T04:20:03Z",
   "schema": 1,
-  "seq": 6
+  "seq": 7
 }
